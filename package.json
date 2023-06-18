@@ -1,0 +1,17 @@
+{
+  "name": "bookshelf-api",
+  "version": "1.0.0",
+  "description": "Bookshelf API",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [],
+  "author": "Baratha Wijaya",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2",
+    "express": "^4.17.1",
+    "nanoid": "^3.3.6"
+  }
+}
